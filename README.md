@@ -1,7 +1,7 @@
 ## Nonparametric inference of interaction laws in systems of agents from trajectory data
 ## Fei Lu, Ming Zhong, Sui Tang, and Mauro Maggioni
 
-Reproducing the result in R. 
+Reproducing (Partial) the result in R. 
 Original Code in Matlab: https://github.com/MingZhongCodes    (open source)
 
 All code in R is reproduced by Xiaoran Ma with necessary adjustments.
